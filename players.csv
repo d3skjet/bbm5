@@ -81,12 +81,12 @@ df0c7db6-0a74-4343-a31e-0b64e2d6b0ea,Kyren Williams,LAR,https://assets.underdogf
 e40e1cd1-24e6-481b-b2ac-3e1409143022,Thayer Thomas,MIN,https://assets.underdogfantasy.com/player-images/nfl/20e2f730-e762-11ed-986b-7b81762709af.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 76bcf23d-03fe-4a55-891a-7bdef70922bc,Calvin Ridley,TEN,https://assets.underdogfantasy.com/player-images/nfl/926e2674-52d6-4cec-9991-46ee85cc8cfd.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 1a67111d-54b6-48e7-8402-02d126c8df12,Joshua Perkins,FA,https://assets.underdogfantasy.com/player-images/nfl/9c18801d-bdaa-4036-9663-24280c763bcf.png,540bb60e-ece4-5478-b5b1-4acd97db8102
+dab88fd5-33ee-430c-9c8c-b8be161b04ff,Shaquan Davis,PHI,https://assets.underdogfantasy.com/player-images/nfl/034647b0-e779-11ed-aab6-6fb0dd124e97.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 26ce27f5-babb-4cb5-a39f-9a89c416b69e,Max Duggan,LAC,,30f5b4f6-5306-5722-997c-a2255f44225b
 759a1714-3937-4f72-b284-4202ffac385e,Dre Miller,FA,https://assets.underdogfantasy.com/player-images/nfl/279ad0b0-d265-11ec-b16e-cf7159baf83d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f445116e-5b80-4eee-8936-b1478925bd95,Seth Roberts,FA,https://assets.underdogfantasy.com/player-images/nfl/27e60657-f73d-4125-906d-aa72cc3477dc.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 0e4f63bd-f309-4c7d-824e-7e9472e8f5ed,Rex Burkhead,FA,https://assets.underdogfantasy.com/player-images/nfl/bd8052bd-0898-430b-99c9-2529e895ae79.png,e2571131-7600-5bc9-878b-946a992c8203
 b18ac210-a3e4-4785-8dd8-c712ac1d9819,Keon Coleman,BUF,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-2c03f26f-0839-49fc-b351-f877c7afa0f4,Carlos Washington,ATL,,e2571131-7600-5bc9-878b-946a992c8203
 8d5fca39-4681-4baf-9149-39eb2cd82bea,Randall Cobb,FA,https://assets.underdogfantasy.com/player-images/nfl/3283f152-d373-43b3-b88f-f6f261c48e81.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f85d8530-22ad-435e-8f90-772980171866,Kalija Lipscomb,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 492e4cc2-bf84-4497-8c05-7d93c82b5e9b,Jamal Agnew,FA,https://assets.underdogfantasy.com/player-images/nfl/c871b3a8-72c4-425e-a357-2de37e033c8d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -116,7 +116,6 @@ e9e04cce-92fc-4eff-8ff7-300c573e888b,Sewo Olonilua,FA,https://assets.underdogfan
 abf841ed-b694-4010-9d61-0dcac4635f15,Malik Henry,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 8ef91a78-aa05-4d00-bf68-633ed43a39e8,Auden Tate,FA,https://assets.underdogfantasy.com/player-images/nfl/75a646ac-b2d2-42d9-91c7-3b00fdf71ef9.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 e9d6f9da-9f11-433e-b041-f49493e79515,Pierre Strong Jr.,CLE,https://assets.underdogfantasy.com/player-images/nfl/8a9a3c7f-57a1-4064-9bda-2c7fad7b5c01.png,e2571131-7600-5bc9-878b-946a992c8203
-35490f3c-4283-47e7-b260-bc73e4b0139d,Cedrick Wilson,NO,https://assets.underdogfantasy.com/player-images/nfl/a964f59b-af2b-48e1-b64d-c376cc1d8c28.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 c35897ed-2889-46f3-9aec-64e524a3c694,Dwayne Washington,DEN,https://assets.underdogfantasy.com/player-images/nfl/30ff46bc-a039-4af7-9050-81af98901a3e.png,e2571131-7600-5bc9-878b-946a992c8203
 b245e35a-861b-4de5-8c65-ac63b3ab3444,Devon Allen,PHI,https://assets.underdogfantasy.com/player-images/nfl/e6f45e70-b764-11ec-a4d3-55a371b2b89a.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 1b821175-4851-4629-8fc5-b8036ad14a61,Diontae Johnson,CAR,https://assets.underdogfantasy.com/player-images/nfl/244c00c7-fe9a-4f4f-adff-1d5b9c8877e7.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -194,6 +193,7 @@ a27f6c96-20e7-4f7d-b83e-836caed7255c,Nate Becker,FA,https://assets.underdogfanta
 ed501533-5aa3-43de-b1e0-3f6d0d5e6a0a,Marshon Ford,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 bcac0af9-edb1-4fd2-b884-dd9202fccfca,Justin Jackson,FA,https://assets.underdogfantasy.com/player-images/nfl/e6c3f896-0223-4fc2-be09-c959ea4a475c.png,e2571131-7600-5bc9-878b-946a992c8203
 1277be61-08ee-476b-8c53-6d7c840ceeeb,Josh McCown,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
+1551d6c8-e6ed-4a68-a3ab-c02179829a90,Kwamie Lassiter,CIN,https://assets.underdogfantasy.com/player-images/nfl/3b3c74f0-d2ee-11ec-96a0-c3471a31202c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 32808a0c-1a45-4bb4-bcb9-e831406e20f2,J.J. Arcega-Whiteside,FA,https://assets.underdogfantasy.com/player-images/nfl/0cc1a941-1a6d-4a4a-8c7c-88157165c126.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 7a4958a8-b5af-4294-80c2-ab6131d8c29f,Blake Corum,LAR,,e2571131-7600-5bc9-878b-946a992c8203
 604e9752-14b7-4f4d-81d1-d454728a549f,Dan Arnold,FA,https://assets.underdogfantasy.com/player-images/nfl/d479a777-b53b-4bbf-a8e4-0c1675ac48df.png,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -227,6 +227,7 @@ cfb45c6c-d0bc-406b-b2a4-16a205031087,John Wolford,TB,https://assets.underdogfant
 494e4355-d991-4791-87c0-8fa6a2234182,Aca'Cedric Ware,FA,,e2571131-7600-5bc9-878b-946a992c8203
 92e4fdbd-608c-426d-a4a4-e29c5a9243a3,John Hightower,FA,https://assets.underdogfantasy.com/player-images/nfl/58e217cd-53c0-40e7-b40b-62f53d246751.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 b4ce4862-3c92-4b80-8782-4ac3d309d2ff,Marcus Rosemy-Jacksaint,WAS,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+35490f3c-4283-47e7-b260-bc73e4b0139d,Cedrick Wilson,NO,https://assets.underdogfantasy.com/player-images/nfl/a964f59b-af2b-48e1-b64d-c376cc1d8c28.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 1f8b31f5-5a8b-461e-accd-d8bc9ecf5a11,Evan Hull,IND,,e2571131-7600-5bc9-878b-946a992c8203
 1e22a254-5c0a-46a1-90d0-f74e5b61078a,Van Jefferson,PIT,https://assets.underdogfantasy.com/player-images/nfl/8e1285f7-6e4c-41e4-aac9-92e09f9f32b2.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 5318d6a2-e07f-4116-acc0-3e11c8662df8,Brennan Eagles,FA,https://assets.underdogfantasy.com/player-images/nfl/b67f1dea-6093-4109-8c0a-ded4ff0e1984.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -432,7 +433,6 @@ a7d6781d-daf8-4c35-8c6f-bbbb52fb39c5,Nate Stanley,FA,https://assets.underdogfant
 4238dec3-5559-4f4a-81cd-f4d15df7baae,Mason Fairchild,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 99915e61-05a3-420b-9414-4b7cc5dec39a,Olamide Zaccheaus,WAS,https://assets.underdogfantasy.com/player-images/nfl/d8281390-f081-41e5-b55e-75779536fe94.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 4e4d58e3-d266-4d5c-9707-79a35e73cd8e,Emmanuel Sanders,FA,https://assets.underdogfantasy.com/player-images/nfl/fd4e8681-f2f4-47c7-b954-a72be9b1ca00.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-732d9e9d-89ea-44b6-a3af-53335718fcb1,Lew Nichols,PHI,https://assets.underdogfantasy.com/player-images/nfl/72e4032d-8d7b-484f-95a2-a73fbb2c67f4.png,e2571131-7600-5bc9-878b-946a992c8203
 03ad4562-e446-443b-9ff8-7fecbd15ddc8,Ryan Izzo,FA,https://assets.underdogfantasy.com/player-images/nfl/40b8fa44-b289-42dd-9606-a1ae30adc7bc.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 b371b594-196a-44c6-aa4a-4b460b8543db,Brian Robinson,FA,,e2571131-7600-5bc9-878b-946a992c8203
 9fce5a42-43cc-4cf2-8732-b37153519ea6,DK Metcalf,SEA,https://assets.underdogfantasy.com/player-images/nfl/754faf0f-40f7-45f0-b23b-6ce990ecaf26.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -498,6 +498,7 @@ fa5d3daf-e9c9-4f1b-ad98-385d0672da5d,Joe Reed,FA,https://assets.underdogfantasy.
 6d848109-6d69-4474-9ab3-76c7f64bafa0,Michael Pittman Jr.,IND,https://assets.underdogfantasy.com/player-images/nfl/1aefd5e2-1f85-471a-91a5-4aad4cf6fe6d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 50dedc9a-36c7-4bb1-bb84-66766b6d89f1,Alex Taylor,FA,https://assets.underdogfantasy.com/player-images/nfl/491a4774-9f2d-4b70-9933-2c7c89abbeba.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 553e2636-229b-4883-a698-409180e408d8,Cam Sutton,FA,https://assets.underdogfantasy.com/player-images/nfl/20278c55-eadd-4256-a4c3-0f03c29fa476.png,540bb60e-ece4-5478-b5b1-4acd97db8102
+501540fa-ada9-4e50-8cbc-0afee30178c0,Johnny Johnson,HOU,https://assets.underdogfantasy.com/player-images/nfl/ef986840-c967-11ec-89b7-476565ea032f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 88ad20bb-1f50-4818-8b4c-93e72c0f97fc,Jake Haener,NO,https://assets.underdogfantasy.com/player-images/nfl/70376919-8220-4128-a089-72d5b10f2346.png,30f5b4f6-5306-5722-997c-a2255f44225b
 843ffb53-0feb-4432-981b-f3b483d08106,Jacob Cowing,SF,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 b3aa4a18-77f0-455c-85a4-9b2a507365cc,Case Cookus,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
@@ -534,7 +535,6 @@ cc26c0b6-0745-456d-9927-882a10f9b7bd,Makai Polk,FA,https://assets.underdogfantas
 0bc2e7fa-b5e5-4570-9709-0fdeb1ab5884,Davis Allen,LAR,https://assets.underdogfantasy.com/player-images/nfl/02a77d8c-3b89-4a61-86a2-0c005c1e589a.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 b32c9f52-1f85-4de6-84d6-a11183ad8829,Ian Thomas,CAR,https://assets.underdogfantasy.com/player-images/nfl/ed8a8fd2-df67-45e7-a34f-984afb82f6ea.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 a1a5134e-4147-4e1e-bc4e-fa09bda99277,Xavier Grimble,FA,https://assets.underdogfantasy.com/player-images/nfl/c9557ff2-899f-41e3-8a0e-35ca874db9b2.png,540bb60e-ece4-5478-b5b1-4acd97db8102
-cb942ebf-9e1f-46a5-8f64-a60dbc18c527,John Stephens,DAL,,540bb60e-ece4-5478-b5b1-4acd97db8102
 c89ae026-b527-4fa7-818f-3cb9c8859e6c,Calvin Tyler,FA,https://assets.underdogfantasy.com/player-images/nfl/4663a0a0-e9ff-11ed-a7b7-57bc951137db.png,e2571131-7600-5bc9-878b-946a992c8203
 cdfe17eb-960c-4d81-8bbd-ced3e913a1d0,Josh Doctson,FA,https://assets.underdogfantasy.com/player-images/nfl/c80914e5-5b9b-4ed8-a993-bcdf5f77f5f6.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 985b2daf-5884-49c1-bc20-055e400a8b2f,Dominic Lovett,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -543,7 +543,6 @@ cdfe17eb-960c-4d81-8bbd-ced3e913a1d0,Josh Doctson,FA,https://assets.underdogfant
 03ab24d3-6ea1-4858-b22e-640d69fe9648,Abram Smith,FA,,e2571131-7600-5bc9-878b-946a992c8203
 5c5632cc-f082-4c22-88f0-59d296f10ef7,Tre Turner,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 c7ccd3b4-426a-4794-80a1-a00356a7a048,Jeremiah Hall,FA,https://assets.underdogfantasy.com/player-images/nfl/d4728400-d264-11ec-b16e-cf7159baf83d.png,be5a7215-24b9-50f9-973c-bd5f344dd964
-e44959d8-6573-439d-b515-d4fe532ae3a4,Phillip Dorsett,DEN,https://assets.underdogfantasy.com/player-images/nfl/c682e8ea-fe48-45d2-af60-682a6125ab22.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 fe985317-3ab0-467b-9f1d-4ea6c8e7cc31,Ben Ellefson,FA,https://assets.underdogfantasy.com/player-images/nfl/ca393469-d587-4bf7-905d-838e960de851.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 4d12d069-c1ac-4fa0-8a27-d6b836d7e5c2,Trevon Grimes,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 366a4240-0e93-4773-975f-d9db4fe583f1,Tanner McKee,PHI,https://assets.underdogfantasy.com/player-images/nfl/93147c90-09c8-471d-a6b2-0b9d19739ba1.png,30f5b4f6-5306-5722-997c-a2255f44225b
@@ -580,6 +579,7 @@ defb990b-58ba-4796-a9b4-fc87d5f0e4d1,Sean Ryan,BAL,https://assets.underdogfantas
 7fbb01f7-c733-48ed-957d-9b0c11f2f2cd,David Durden,DAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 eb11de6a-6d20-410c-8e57-8d660bc26b97,Kaden Davis,DET,https://assets.underdogfantasy.com/player-images/nfl/acb316b0-d24f-11ec-b16e-cf7159baf83d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 311163e8-901f-420c-a5c5-54b5ae779e3b,Jeff Heuerman,FA,https://assets.underdogfantasy.com/player-images/nfl/1fe3aadd-336b-4838-888e-8c9609747afc.png,540bb60e-ece4-5478-b5b1-4acd97db8102
+cbd44d70-a500-4e0f-8d9c-a1fa32183aa3,John Ross,PHI,https://assets.underdogfantasy.com/player-images/nfl/938b363a-6967-4cef-bcd2-bb358a9f6c98.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 e619aeec-c7b6-4cd9-ad14-f93c5889dd0c,Lamar Miller,FA,https://assets.underdogfantasy.com/player-images/nfl/a212c5d8-67f8-48b9-99be-2c121ee56366.png,e2571131-7600-5bc9-878b-946a992c8203
 d09c7110-5c4e-4eb4-8b2b-5c9383bbc0de,Juwann Winfree,IND,https://assets.underdogfantasy.com/player-images/nfl/fa7bdbe5-23b9-4cba-9015-98c5e2d09c9e.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 fd3c802d-e947-4b38-8150-cfe48c1460cb,Dominick Wood-Anderson,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -641,6 +641,7 @@ fb644b02-dc54-472c-b99b-8216516c35bf,Jelani Woods,IND,https://assets.underdogfan
 e6ea81a9-a676-4a48-bcbc-2b97cde9e29a,John Metchie III,HOU,https://assets.underdogfantasy.com/player-images/nfl/2995df34-ee81-4320-be1e-1c497b83c927.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 e1356672-a81e-420b-8817-c4f988c92ce5,Drew Brees,FA,https://assets.underdogfantasy.com/player-images/nfl/bb5957e6-ce7d-47ab-8036-22191ffc1c44.png,30f5b4f6-5306-5722-997c-a2255f44225b
 a3901a5e-309b-4dc1-b62f-a9e7887ba7a7,Tim Patrick,DEN,https://assets.underdogfantasy.com/player-images/nfl/2a443351-5e63-4a49-819e-912b51a745f2.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+3cd91567-2eb5-4a43-a64d-59a4235e5508,John Kelly,CLE,https://assets.underdogfantasy.com/player-images/nfl/27156b0b-e82d-4d02-8a04-ca1891d77110.png,e2571131-7600-5bc9-878b-946a992c8203
 eae12782-d24f-4a99-8eee-7e189a629e37,Tyler Davis,GB,https://assets.underdogfantasy.com/player-images/nfl/e7a9186e-5e19-4f70-b45c-527c888e6fc7.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 93f6aae9-d9e2-4784-bd8a-c6b639acb1d5,Jordan Leggett,FA,https://assets.underdogfantasy.com/player-images/nfl/bea00842-e4db-4955-857a-ea8d4a0e215b.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 131ac51c-0a71-4843-980c-1772cc069a3c,Isiah Pacheco,KC,https://assets.underdogfantasy.com/player-images/nfl/3a25c037-fa30-4740-b742-ec8e4f1a2a25.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -687,7 +688,6 @@ c86a8455-08b6-4bb3-bd21-9ac7fe093ae9,Jonathan Mingo,CAR,,ddd5757d-e6f2-5bdc-9d42
 36cf3d9c-96fa-4d67-91b0-5567796434f2,Austin Stogner,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 7e6000de-0a9b-4d12-862b-5194ce6d526c,Austin Ekeler,WAS,https://assets.underdogfantasy.com/player-images/nfl/e5b8c439-a48a-4f83-b63b-1a4d30e04cd3.png,e2571131-7600-5bc9-878b-946a992c8203
 a57b6962-7323-4619-a6e8-5d224ccc42f2,Dylan Drummond,ATL,https://assets.underdogfantasy.com/player-images/nfl/e34c6990-f35c-11ed-ac5f-715e78829103.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-3cd91567-2eb5-4a43-a64d-59a4235e5508,John Kelly,CLE,https://assets.underdogfantasy.com/player-images/nfl/27156b0b-e82d-4d02-8a04-ca1891d77110.png,e2571131-7600-5bc9-878b-946a992c8203
 b72b8439-2a34-4a0b-94ea-0922529a6619,Kenji Bahar,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
 62584f58-03b1-40e0-be16-94743c25bfee,Brady Davis,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
 4c5da537-b5ee-4339-9b90-750ff94b1712,Spencer Ware,FA,https://assets.underdogfantasy.com/player-images/nfl/bbb63a36-8613-4675-8e5e-34200d245ff0.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -738,6 +738,7 @@ e086c35b-a2e6-410b-9bdd-c31867b8b977,Greg McCrae,FA,,e2571131-7600-5bc9-878b-946
 164c7dda-98b5-4098-9f5a-afb2f622935b,Anthony Firkser,DET,https://assets.underdogfantasy.com/player-images/nfl/b0719e3d-199b-46e5-a2b4-1091f6fd5c0d.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 fe313663-17e8-450d-8ef9-d1ec327a5a53,Colson Yankoff,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 8d2b76a1-5ba5-4874-8bed-69c49d9c5fa3,Ryan Finley,FA,https://assets.underdogfantasy.com/player-images/nfl/d935df27-5be4-4aab-b117-8ec8e81c2196.png,30f5b4f6-5306-5722-997c-a2255f44225b
+75bb829d-b66a-4b42-a2f1-bb7242ecccb4,Lawrence Keys,BUF,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 e72d2d83-a588-45e3-9623-3fefdb1aa655,Carl Tucker,FA,https://assets.underdogfantasy.com/player-images/nfl/fde9c52b-0e2f-46e7-9b0e-9ada612ecec3.png,be5a7215-24b9-50f9-973c-bd5f344dd964
 d344fca4-17d0-42f9-9e3c-9586a542c80a,Artavis Pierce,FA,https://assets.underdogfantasy.com/player-images/nfl/a21cba9e-32a9-494b-b2a1-d454b65872b6.png,e2571131-7600-5bc9-878b-946a992c8203
 e16d9500-606d-420a-817b-36c3ae53d7ed,Tre Ford,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
@@ -774,7 +775,6 @@ f1ed70fe-3773-4400-b9ee-5b668ff679ea,Zamir White,LV,https://assets.underdogfanta
 4ecd2ff4-0ba0-40c8-92b0-e0312d62a36d,Kawaan Baker,NE,https://assets.underdogfantasy.com/player-images/nfl/ed8d8820-4343-43cc-b41f-b98439923bef.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f3444c97-3d7d-4987-9844-64469a914f18,Terrace Marshall Jr.,CAR,https://assets.underdogfantasy.com/player-images/nfl/69388223-d1e7-46c3-9106-e10edb7073e9.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 7bc0cdfe-cc3e-4112-8600-001b1ef77ec0,Jake Funk,DET,https://assets.underdogfantasy.com/player-images/nfl/8da63045-f139-4422-9bd7-efe46c7fcf13.png,e2571131-7600-5bc9-878b-946a992c8203
-97919afd-7439-44f9-9e2b-9f0f1478e5ef,Patrick Taylor,SF,https://assets.underdogfantasy.com/player-images/nfl/ef87e355-8e0c-40ed-a85d-bca4896d4f1e.png,e2571131-7600-5bc9-878b-946a992c8203
 895fded9-6e24-44b4-9532-04a378306b2f,Ramaud Chiaokhlao-Bowman,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f8bdbde8-afae-4a23-ac5b-231bd7eeeeab,Dede Westbrook,FA,https://assets.underdogfantasy.com/player-images/nfl/046c51bc-319e-4fbb-9cf3-f6ab808b8edf.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 991d546e-1d68-4cc6-977e-62286356f087,Jameson Williams,DET,https://assets.underdogfantasy.com/player-images/nfl/590adb00-5598-47ad-b6d4-16a6c5519847.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -840,6 +840,7 @@ b3fc6404-a8a0-4475-8276-209e50b74069,Javonte Williams,DEN,https://assets.underdo
 4de8084d-aa1a-43c7-9676-0def5b39e980,CeeDee Lamb,DAL,https://assets.underdogfantasy.com/player-images/nfl/a72ea15b-5199-4101-a300-846e1c655add.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 b8393fb7-9b0e-4988-a057-db3542da17b5,Grayson Gunter,FA,https://assets.underdogfantasy.com/player-images/nfl/1c089160-cbb7-11ec-88c8-199e5defa0d2.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 2a251dd5-d774-4df4-bf04-471ecc2e08ea,Darren Fells,FA,https://assets.underdogfantasy.com/player-images/nfl/54d4e35a-2e6c-48f6-86ad-92dd596c173c.png,540bb60e-ece4-5478-b5b1-4acd97db8102
+16c96332-6b0d-48fc-a054-0fe191422dc6,Easop Winston,SEA,https://assets.underdogfantasy.com/player-images/nfl/495dfd2f-adc6-4ea0-a830-0513db2c1477.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 a6c845ff-11cf-4bc1-adc6-c898f5ee4a72,Kyle Trask,TB,https://assets.underdogfantasy.com/player-images/nfl/13038760-a019-4e2a-9aea-f13d7dce5bda.png,30f5b4f6-5306-5722-997c-a2255f44225b
 5fb8e76e-0b73-4242-9a91-31a3e6bb0d50,Dontario Drummond,FA,https://assets.underdogfantasy.com/player-images/nfl/e653cd10-d30d-11ec-8b77-45b1765fd110.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 66757d17-9af6-4678-9309-4c000c7605fd,James White,FA,https://assets.underdogfantasy.com/player-images/nfl/39f70428-a78a-494c-8676-438d953c289e.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -858,17 +859,18 @@ bd6ca3b5-46e3-496c-812b-bb04e61515cf,Parris Campbell,PHI,https://assets.underdog
 58ff2712-13c2-4025-bcb7-9c7fadac4e8c,Melvin Gordon III,FA,https://assets.underdogfantasy.com/player-images/nfl/0f8ccece-d663-4069-944b-f318f64c60b7.png,e2571131-7600-5bc9-878b-946a992c8203
 d47ea75e-9bfd-45b0-bf3a-30d553804382,DaeSean Hamilton,FA,https://assets.underdogfantasy.com/player-images/nfl/ccd5239f-e8ba-484c-acf5-af0bd9f6dadc.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 9bac385a-16a2-469d-adf8-1b1192547421,Xavier Hutchinson,HOU,https://assets.underdogfantasy.com/player-images/nfl/aed98af2-b228-4b74-a804-2d210bd11122.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-509cba99-5fd4-45ed-8f58-1da803c312e8,Rodney Williams,PIT,https://assets.underdogfantasy.com/player-images/nfl/e480b9d0-d254-11ec-b16e-cf7159baf83d.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 b2355d99-f555-4e51-b303-911afe6de613,Troy Franklin,DEN,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f6c746de-7a4a-4781-920b-f57b45283eea,Javorius Allen,FA,https://assets.underdogfantasy.com/player-images/nfl/9173225c-4e88-4c87-ad78-41aa0d00a1be.png,e2571131-7600-5bc9-878b-946a992c8203
 9aa62b42-770f-4ec2-8e85-30ca00509906,Isaiah Winstead,FA,https://assets.underdogfantasy.com/player-images/nfl/23cd4b70-ea0b-11ed-9937-afc55efa97bf.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 76270f2d-4939-47d5-882e-981a5d07f2a7,Tyler Badie,DEN,https://assets.underdogfantasy.com/player-images/nfl/e62678b9-9816-420f-bf86-398e7fea7063.png,e2571131-7600-5bc9-878b-946a992c8203
 72a6fe20-f935-422e-97b0-0babff00fbb7,Dexter Williams,FA,https://assets.underdogfantasy.com/player-images/nfl/a2e0f742-e608-4e29-99cd-e7cd765afba1.png,e2571131-7600-5bc9-878b-946a992c8203
 ce86296c-ef28-4b01-8363-c3d4cb5470f7,Mike Strachan,CAR,https://assets.underdogfantasy.com/player-images/nfl/f847b563-8a08-46ca-bb57-aee8431a87fd.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+abbfc8f3-2503-4312-a001-3b79775bc2fa,James Proche,CLE,https://assets.underdogfantasy.com/player-images/nfl/c65488d4-251e-40fc-9f32-7019bbdaf75e.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 4a3cc660-ccfa-4c16-ae3a-80c964c511ff,LeSean McCoy,FA,https://assets.underdogfantasy.com/player-images/nfl/166292fc-629e-4c7b-b7bf-f572ca9eeb43.png,e2571131-7600-5bc9-878b-946a992c8203
 0bb824df-2dff-49f2-9dc2-be7d999946e9,Daewood Davis,FA,https://assets.underdogfantasy.com/player-images/nfl/7da40cc0-ef87-11ed-9684-4b7ffc5578e1.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 3de27825-495a-44e1-9600-ee4fd5ba4bd2,Peyton Ramsey,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
 c2f61e40-f9fa-4050-b955-9b236bcceeed,Jaxon Smith-Njigba,SEA,https://assets.underdogfantasy.com/player-images/nfl/6215db71-1e13-4c62-8f14-2005d33dee47.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+97919afd-7439-44f9-9e2b-9f0f1478e5ef,Patrick Taylor,SF,https://assets.underdogfantasy.com/player-images/nfl/ef87e355-8e0c-40ed-a85d-bca4896d4f1e.png,e2571131-7600-5bc9-878b-946a992c8203
 6cd5bf09-3b66-4640-87e4-e532c0c7b175,Malik Davis,DAL,https://assets.underdogfantasy.com/player-images/nfl/7caf1f90-d30d-11ec-8b77-45b1765fd110.png,e2571131-7600-5bc9-878b-946a992c8203
 80dacfd1-5a36-4c0c-a5ee-f64030110476,De'Montre Tuggle,FA,https://assets.underdogfantasy.com/player-images/nfl/b4be3630-cfa9-11ec-a024-8f80a1cdd928.png,e2571131-7600-5bc9-878b-946a992c8203
 c7c9b021-3d8c-47b3-ba54-fc3fc591376c,Bernhard Seikovits,ARI,https://assets.underdogfantasy.com/player-images/nfl/0a084635-4e5b-42ed-a85c-7d0ea1ed76f0.png,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -895,6 +897,7 @@ aa902044-d671-4534-a5fc-e1261595e7f7,Nick Guggemos,FA,,540bb60e-ece4-5478-b5b1-4
 ac966563-1e1b-40c0-81fb-2d57f58329f0,AJ Dillon,GB,https://assets.underdogfantasy.com/player-images/nfl/e10bfeb8-ea01-47bc-bfa8-45f6dcbf71b3.png,e2571131-7600-5bc9-878b-946a992c8203
 e84d47d6-9a7c-4106-8119-f22a3afd29e4,Hayden Hatten,SEA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 22db4d4c-a108-4be7-96fb-b7e8511ac326,Joe Webb,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
+1bd7b256-4a5c-4568-b75f-bdf53a24cdf1,David Sills,DEN,https://assets.underdogfantasy.com/player-images/nfl/97f6c20c-1110-4551-82c1-41d3247397a2.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 28ba2a9a-0600-4113-8365-9c8ddbb63c88,Kylin Hill,FA,https://assets.underdogfantasy.com/player-images/nfl/0f5abff3-bb58-43bc-a915-daa341bf3a67.png,e2571131-7600-5bc9-878b-946a992c8203
 671f9989-f469-43a6-a7df-5ffc3e3c1469,Justin Hall,FA,https://assets.underdogfantasy.com/player-images/nfl/575ea340-d3a4-11ec-96a0-c3471a31202c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 5119d00f-e25f-4bdc-8912-cd7e13dc581b,John Hurst,FA,https://assets.underdogfantasy.com/player-images/nfl/e4edfc2e-c6f7-42fc-b8b1-8e5282457000.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -948,7 +951,6 @@ d12b90ac-e8b4-469c-83b7-2d814b418061,Jordan Chunn,FA,https://assets.underdogfant
 4a6329ce-0a39-4cdf-bde4-227a041aa146,Vance McDonald,FA,https://assets.underdogfantasy.com/player-images/nfl/8f24a248-b328-43ec-8677-67600e42a8f7.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 93968534-481d-4e81-b3a8-7a350617cf74,Sean Shaw,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 252d5fc0-fa09-4942-9de4-8cbe4cc43c1f,Steven Sims,HOU,https://assets.underdogfantasy.com/player-images/nfl/4a213e4e-b0ba-4124-833e-33c528bd5908.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-1551d6c8-e6ed-4a68-a3ab-c02179829a90,Kwamie Lassiter,CIN,https://assets.underdogfantasy.com/player-images/nfl/3b3c74f0-d2ee-11ec-96a0-c3471a31202c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 fb67117b-3c07-4ae3-87d5-3d7a5f4f94f6,Casey Washington,ATL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 b83aeb53-9062-43b3-b430-5e7272a9c523,Jalen Wayne,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 4b3133c5-d824-409e-b743-e51aec5d3789,Ainias Smith,PHI,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -993,7 +995,9 @@ a02d01f6-0760-4c97-8101-ea1e670af341,Zach Gentry,LV,https://assets.underdogfanta
 a1761b62-9000-4680-b0de-8c54d2ee4473,Elijah McGuire,FA,https://assets.underdogfantasy.com/player-images/nfl/13ade86a-20c7-48fe-9d18-b3bfc135f5e9.png,e2571131-7600-5bc9-878b-946a992c8203
 76e3d3fd-34f4-4a31-9bdf-2da6437773ea,Calvin Jackson,FA,https://assets.underdogfantasy.com/player-images/nfl/b5262720-cfa6-11ec-9654-458fa3496c67.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 7212c057-c051-453d-a287-2c16dcd6781d,Rashod Bateman,BAL,https://assets.underdogfantasy.com/player-images/nfl/d9f8b92b-69d4-4d83-9bf2-106ee523efed.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+e44959d8-6573-439d-b515-d4fe532ae3a4,Phillip Dorsett,DEN,https://assets.underdogfantasy.com/player-images/nfl/c682e8ea-fe48-45d2-af60-682a6125ab22.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 189fd1e2-d3d5-49d1-a63b-4f8fcfbd3e77,Jauan Jennings,SF,https://assets.underdogfantasy.com/player-images/nfl/3ae9f0fa-c711-4663-80cf-4707856c07aa.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+ad3eff63-980d-4fb9-9260-311480d0d8d0,Joe Milton,NE,,30f5b4f6-5306-5722-997c-a2255f44225b
 a11b657b-4893-4bd8-9b4e-bf951554fb1b,Deontay Burnett,FA,https://assets.underdogfantasy.com/player-images/nfl/a4290c7e-ffc0-4f5b-a442-b1d821c24f88.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 ae6528b6-6671-415c-834c-cea02193d491,Dillon Stoner,FA,https://assets.underdogfantasy.com/player-images/nfl/977bcabb-f79b-4e96-91f9-c8e44f73c3e8.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 ce5abbd2-a799-4ed2-a02d-e33aa13c59bd,Anthony Johnson,FA,https://assets.underdogfantasy.com/player-images/nfl/e0dc9dce-fe33-4092-b6bd-6af3cbcb762e.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1007,6 +1011,7 @@ d91fab35-c660-4340-be36-6300bce92d69,Justin Fields,PIT,https://assets.underdogfa
 5072a7b6-c680-4b25-a3ab-f6d39000659a,Tyler Simmons,FA,https://assets.underdogfantasy.com/player-images/nfl/03b284d4-e624-4e2e-ab32-ab2564cdca0b.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 104a0ac7-050c-4789-b606-8f35704cfa92,Jordan Veasy,FA,https://assets.underdogfantasy.com/player-images/nfl/fb815f81-3759-4194-bff9-1982fb2dd9a0.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 48b9f1fd-bcbb-476d-9ddf-610502310dad,Simi Fehoko,LAC,https://assets.underdogfantasy.com/player-images/nfl/3860693c-99a2-4484-99db-1d43e3ff7fd4.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+3233ed0b-c669-48d1-9b6f-f2a9b0f25a94,Cephus Johnson,TB,https://assets.underdogfantasy.com/player-images/nfl/b89efd10-e75f-11ed-a29e-ab97a2d330b9.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 9a5008b9-2fe9-4477-8590-2205f82a337c,KaVontae Turpin,DAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 5ee76919-a3e7-4196-8a93-b9707e52f51a,Josh Hammond,FA,https://assets.underdogfantasy.com/player-images/nfl/32494eca-34f8-4d7f-88ee-e3319128e8e0.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f5719285-90d6-491e-9489-4ac0cb164e4b,Easton Stick,LAC,https://assets.underdogfantasy.com/player-images/nfl/af291d43-a51f-44ce-b8ac-430ec68c78c8.png,30f5b4f6-5306-5722-997c-a2255f44225b
@@ -1081,7 +1086,6 @@ eafc4cd1-a257-45d5-ba89-0804935a0bd3,Diontae Spencer,FA,https://assets.underdogf
 9fb7e358-4d5e-4cc2-b7c6-857e35f9a5d6,Ben Beise,FA,https://assets.underdogfantasy.com/player-images/nfl/36b0ce40-d3de-11ec-8afa-57d9afd0ecba.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 8e66ce18-5e89-4350-b707-f609bd58a662,Daniel Brown,FA,https://assets.underdogfantasy.com/player-images/nfl/1b016b52-62ba-4da9-9ead-6bad689f8d33.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 d21ffffb-a8ff-4ecf-b2fb-86bc5571e7c4,Teddy Bridgewater,FA,https://assets.underdogfantasy.com/player-images/nfl/d4cb52a9-f6b4-42ed-b40b-27bff5f1eea7.png,30f5b4f6-5306-5722-997c-a2255f44225b
-dab88fd5-33ee-430c-9c8c-b8be161b04ff,Shaquan Davis,PHI,https://assets.underdogfantasy.com/player-images/nfl/034647b0-e779-11ed-aab6-6fb0dd124e97.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 5f5b4fbb-fcbc-4d9c-ad98-093450d2daec,Corey Coleman,FA,https://assets.underdogfantasy.com/player-images/nfl/6efb8027-b537-4dd1-883f-459450708ad4.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 75db8d7a-8a83-4a3c-918f-ae035fd6bb62,Drake Stoops,LAR,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 80db90d0-8057-446c-b2bb-e4d67f357a25,Elijah Moore,CLE,https://assets.underdogfantasy.com/player-images/nfl/b1935e20-6bd6-4863-8d7e-702ec403491f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1135,7 +1139,6 @@ d151802e-d9d3-4a79-ba11-e50f25fcf6f8,Sione Vaki,DET,,e2571131-7600-5bc9-878b-946
 5f6afcd0-bdec-4e9f-b92b-ac47a1eea7d1,Rashard Davis,FA,https://assets.underdogfantasy.com/player-images/nfl/4e87e1a1-8b89-4738-a527-87eb0663c35d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 fe9a52e1-671b-41d1-b2ce-0a515dc65796,Michael Mayer,LV,,540bb60e-ece4-5478-b5b1-4acd97db8102
 31af7f55-ac71-465b-bcf9-8a359448646d,Josh Vann,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-60ecd2ea-8cb6-4de3-b1a2-bea8f2e7e5ce,Michael Woods,CLE,https://assets.underdogfantasy.com/player-images/nfl/70c462de-b1b5-4c07-8ba2-eb33f3075893.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 1893a201-e4e0-4d03-8ad7-7b23dfcea52d,Alex Smith,FA,https://assets.underdogfantasy.com/player-images/nfl/2fda010a-8c62-4c07-b601-4ba03f57e6af.png,30f5b4f6-5306-5722-997c-a2255f44225b
 36ffcc88-5ca1-4b0e-9f02-028b5ba24be0,Matthew Stafford,LAR,https://assets.underdogfantasy.com/player-images/nfl/ade43b1a-0601-4672-83b6-d246bc066a19.png,30f5b4f6-5306-5722-997c-a2255f44225b
 82299c45-a26d-499d-9e80-10be5c3795f3,Jake Bargas,FA,https://assets.underdogfantasy.com/player-images/nfl/5690a8b7-c298-426f-be4b-4bd2f0046ae5.png,be5a7215-24b9-50f9-973c-bd5f344dd964
@@ -1259,7 +1262,6 @@ a3b86b54-9648-48bb-a26f-293777e82a0f,Michael Roberts,FA,https://assets.underdogf
 9465be58-d5fb-4581-a275-1654dcb2f9c3,E.J. Perry,FA,https://assets.underdogfantasy.com/player-images/nfl/0d1c4a90-cd6d-11ec-8737-9957c846cd93.png,30f5b4f6-5306-5722-997c-a2255f44225b
 4520ab4c-d93f-4417-a936-b15379db288b,Deshaun Watson,CLE,https://assets.underdogfantasy.com/player-images/nfl/eec5265c-7731-4bb6-8af2-4f98a67f9ab7.png,30f5b4f6-5306-5722-997c-a2255f44225b
 3bbf88ce-3649-4fe3-b321-b2026d2e20e0,James O'Shaughnessy,FA,https://assets.underdogfantasy.com/player-images/nfl/e5c6b0d4-3e77-422b-a6d8-574a10ed385e.png,540bb60e-ece4-5478-b5b1-4acd97db8102
-501540fa-ada9-4e50-8cbc-0afee30178c0,Johnny Johnson,HOU,https://assets.underdogfantasy.com/player-images/nfl/ef986840-c967-11ec-89b7-476565ea032f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 1048a3a5-5817-47dd-a714-ca0c518a955c,Lance McCutcheon,NYJ,https://assets.underdogfantasy.com/player-images/nfl/fb2a4c20-d207-11ec-ab20-b37737d70cc4.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 e04d32cc-4733-4e22-b0ff-47e6c2799048,Kade Warner,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 972d2ab0-e233-46e1-aa72-4d9c725dd832,Easton Dean,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -1283,6 +1285,7 @@ cc2d5397-aa26-4ca6-956c-7f5816a1671d,J.J. McCarthy,MIN,,30f5b4f6-5306-5722-997c-
 9a5f030e-a843-4a54-87aa-4a08fe407401,Theo Riddick,FA,https://assets.underdogfantasy.com/player-images/nfl/62d4e94c-443f-44ed-9404-c6d6bdd9aa64.png,e2571131-7600-5bc9-878b-946a992c8203
 af723c0f-eae7-4e09-a78b-2c2d20c5c7cc,Kevin Hogan,FA,https://assets.underdogfantasy.com/player-images/nfl/cd571cfc-9b44-4b69-a801-431db9aaa85e.png,30f5b4f6-5306-5722-997c-a2255f44225b
 a42c4bd3-ba9e-4f80-bed4-87bbe09a7680,Khalan Laborn,FA,,e2571131-7600-5bc9-878b-946a992c8203
+34a5ecb4-ad9e-4caa-8091-4dc9c2e11e3f,Austin Watkins,PHI,https://assets.underdogfantasy.com/player-images/nfl/dda1c351-8148-4c26-9bc0-1d906065290f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 2f9cdd9f-c36f-4564-8efb-ead9372f804c,Aaron Shampklin,PIT,https://assets.underdogfantasy.com/player-images/nfl/c09be300-d30d-11ec-8b77-45b1765fd110.png,e2571131-7600-5bc9-878b-946a992c8203
 6ffc42ff-42fb-4e8d-9fd6-ebc7c29fba21,Sean Culkin,FA,https://assets.underdogfantasy.com/player-images/nfl/5cc0007b-4561-4ff2-8fa7-242bec47dc5a.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 cab646b9-bf30-47ab-a0ed-6a899e831f70,Keylon Stokes,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1329,9 +1332,7 @@ bf2a9c10-259a-4966-9dcf-b99a61128cf8,Foster Moreau,NO,https://assets.underdogfan
 e285720d-2bed-4675-99d3-3bfab5498fea,Denzel Mims,PIT,https://assets.underdogfantasy.com/player-images/nfl/adfc13b3-1eb6-49f3-9ba6-d4d87fd13685.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 4132c62e-1823-4aec-bb75-ebdbbad72f94,Andrew Luck,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
 4e095da6-5de5-4123-8d01-1cbffb761394,Kirk Merritt,FA,https://assets.underdogfantasy.com/player-images/nfl/521f597a-0709-4cc4-afab-72d93eccb5fc.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-75bb829d-b66a-4b42-a2f1-bb7242ecccb4,Lawrence Keys,BUF,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 4403b094-d95d-44d3-bfdb-91f6f1df852e,Jalen Berger,FA,,e2571131-7600-5bc9-878b-946a992c8203
-1bd7b256-4a5c-4568-b75f-bdf53a24cdf1,David Sills,DEN,https://assets.underdogfantasy.com/player-images/nfl/97f6c20c-1110-4551-82c1-41d3247397a2.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 47d66d75-6983-4038-a54c-c81b9db1f9b9,Davion Davis,WAS,https://assets.underdogfantasy.com/player-images/nfl/95f9c4fe-b5b0-4075-bdd8-f5b458373df6.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f67a65a6-e2f2-4b9e-86cf-4955407f366b,Hendon Hooker,DET,https://assets.underdogfantasy.com/player-images/nfl/25b10007-802d-4ebb-8314-3eb7b24ddc37.png,30f5b4f6-5306-5722-997c-a2255f44225b
 52aa4523-7aa1-4310-9fd3-7cea1cbd5931,Tylan Wallace,BAL,https://assets.underdogfantasy.com/player-images/nfl/29269863-13cf-4c66-ac3c-5d9a47e2040a.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1382,7 +1383,6 @@ ec772737-d207-4b0c-a276-96f8d3fed6de,Marcus Santos-Silva,FA,https://assets.under
 5e4aad4b-1f05-47c8-bd0f-20c11f944bea,Devine Ozigbo,FA,https://assets.underdogfantasy.com/player-images/nfl/25bc08ac-8420-4340-94c6-93993ff87d6f.png,e2571131-7600-5bc9-878b-946a992c8203
 1fa16276-37d0-4017-b356-dff85b4bc053,Tucker Kraft,GB,https://assets.underdogfantasy.com/player-images/nfl/3a084c5f-6b9f-4703-a0c7-1566bc4b1129.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 46138876-0318-4746-a61f-9b33cbcdc91f,Phillip Brooks,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-3233ed0b-c669-48d1-9b6f-f2a9b0f25a94,Cephus Johnson,TB,https://assets.underdogfantasy.com/player-images/nfl/b89efd10-e75f-11ed-a29e-ab97a2d330b9.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 51acbf2f-966d-4213-8c23-b482a4f2e263,Ronnie Bell,SF,https://assets.underdogfantasy.com/player-images/nfl/ba06804a-b84c-408a-8ef6-5226d8424479.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 8b75445a-ed27-4e97-97a7-8dae86f1f722,Quez Watkins,PIT,https://assets.underdogfantasy.com/player-images/nfl/ca85137c-205c-458e-8b77-8457849f614c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 10a4ea60-c8e3-4e3f-b407-3636348067a1,Ashton Dulin,IND,https://assets.underdogfantasy.com/player-images/nfl/f374262b-d642-4d05-9584-5955548ee4d1.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1399,6 +1399,7 @@ a87e5777-3663-4c87-8c62-fbc4459def1e,Antoine Green,DET,https://assets.underdogfa
 d27a4f15-09ed-41b3-86ff-dd6a1baa2043,Bryson Nesbit,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 3739608a-97c0-4eef-aa3f-c39b049bd703,Payton Thorne,FA,,30f5b4f6-5306-5722-997c-a2255f44225b
 1a936706-39c0-4b70-ac22-f3b47b2b7092,Damarea Crockett,FA,https://assets.underdogfantasy.com/player-images/nfl/d4f0aa89-6309-4977-b779-7501eb8c8508.png,e2571131-7600-5bc9-878b-946a992c8203
+2c03f26f-0839-49fc-b351-f877c7afa0f4,Carlos Washington,ATL,,e2571131-7600-5bc9-878b-946a992c8203
 d784c591-31c4-4729-9172-5b91d69c4df0,Isaac Rex,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 e8c1723e-3ec3-49f0-a83b-c7af9c62babc,Luis Perez,FA,https://assets.underdogfantasy.com/player-images/nfl/90395591-32e3-42e8-962f-1f82f7cd6e75.png,30f5b4f6-5306-5722-997c-a2255f44225b
 ac1722d5-934c-4c66-a7ef-d4c56c007d17,Tyler Ervin,FA,https://assets.underdogfantasy.com/player-images/nfl/442eb96a-deb6-4e73-b65a-a2bb25ffa968.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -1447,6 +1448,7 @@ fd498b49-4486-47b1-abfc-55cb48b3e6e7,Austin Hooper,NE,https://assets.underdogfan
 65a3b00f-0be9-4652-b7ce-d1d29816945d,Tank Dell,HOU,https://assets.underdogfantasy.com/player-images/nfl/25e7b423-f716-4d1a-9623-cee3e7d822ab.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 eae87370-22b6-4dc4-a026-27305b132c61,Treyton Welch,FA,,540bb60e-ece4-5478-b5b1-4acd97db8102
 ecdc9d60-8a41-4a9c-ac5f-8c2e317ae109,Ty Scott,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+509cba99-5fd4-45ed-8f58-1da803c312e8,Rodney Williams,PIT,https://assets.underdogfantasy.com/player-images/nfl/e480b9d0-d254-11ec-b16e-cf7159baf83d.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 f79d1f8a-db38-4fe5-a0c2-541b47a542ba,Joseph Ngata,PHI,https://assets.underdogfantasy.com/player-images/nfl/46a3a6d0-eb73-11ed-aecd-85bc826ed43e.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 3a48b9ae-65b9-4a89-bd65-e18039433d90,Braxton Burmeister,FA,https://assets.underdogfantasy.com/player-images/nfl/f0f7f440-f0fc-11ed-bc0a-3b3e002b29df.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 afc8de3d-259c-4ad0-9507-680e9e1c621b,Irvin Charles,NYJ,https://assets.underdogfantasy.com/player-images/nfl/f8578e10-d3bd-11ec-96a0-c3471a31202c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1462,7 +1464,6 @@ cb6d24ee-2744-45e8-b490-02b737a1dff4,Antwan Davis,FA,,ddd5757d-e6f2-5bdc-9d42-4f
 24d76979-5f99-4af8-994d-8dddd42a1a02,Robert Woods,HOU,https://assets.underdogfantasy.com/player-images/nfl/618bedee-9259-4536-b0ff-fec98d2a20de.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 951dec08-9612-4865-b891-692e753e0a91,Tommy Sweeney,CHI,https://assets.underdogfantasy.com/player-images/nfl/ec63ee49-3a03-44ca-a083-3916f0bccd76.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 8af14b29-44c9-4df5-a6b3-2ecfbfbc5fdc,Kendre Miller,NO,https://assets.underdogfantasy.com/player-images/nfl/66627686-34fe-4599-84ac-e436fd7d798a.png,e2571131-7600-5bc9-878b-946a992c8203
-16c96332-6b0d-48fc-a054-0fe191422dc6,Easop Winston,SEA,https://assets.underdogfantasy.com/player-images/nfl/495dfd2f-adc6-4ea0-a830-0513db2c1477.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 467d16c8-fe6f-4e5b-b87a-5aa7f1ad4ff0,Will Shipley,PHI,,e2571131-7600-5bc9-878b-946a992c8203
 1dd8ef88-930d-461a-b2fe-33b31cb82ef4,Willie Snead,SF,https://assets.underdogfantasy.com/player-images/nfl/8482bc94-0eb0-4e92-8f99-ced135f3cd5d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 229b2cf7-ca6c-4394-b7f8-27883fb8abb7,Kenneth Gainwell,PHI,https://assets.underdogfantasy.com/player-images/nfl/e2a5882a-dcc1-4800-889f-3b957b21834f.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -1536,6 +1537,7 @@ af308c2d-9dec-434b-8b0a-35e55697f585,Elijah Collins,FA,,e2571131-7600-5bc9-878b-
 5a8dfec6-a864-49ff-b02e-8c64192bce48,Jace Sternberger,FA,https://assets.underdogfantasy.com/player-images/nfl/f808794b-3135-4f75-b46a-ba90bf6b8502.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 d51c264a-047a-4186-8242-bf22173d7880,Michael Penix,ATL,,30f5b4f6-5306-5722-997c-a2255f44225b
 f35e2ebd-3564-4083-b64a-0d59bedf1d9c,Breece Hall,NYJ,https://assets.underdogfantasy.com/player-images/nfl/db1053d7-3343-43a3-9aab-8353f10f1221.png,e2571131-7600-5bc9-878b-946a992c8203
+cb942ebf-9e1f-46a5-8f64-a60dbc18c527,John Stephens,DAL,,540bb60e-ece4-5478-b5b1-4acd97db8102
 3495206e-6d47-4221-adf7-953c540bfeb9,Josh Hill,FA,https://assets.underdogfantasy.com/player-images/nfl/687cdc33-bd0d-4b70-adb3-33f97dc26a3c.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 a7eb11a1-09ce-40d1-af62-523dd8401035,Garrett Gilbert,FA,https://assets.underdogfantasy.com/player-images/nfl/56073e7b-84ca-4d4a-a2e7-1bfc0277e8d4.png,30f5b4f6-5306-5722-997c-a2255f44225b
 71dea281-8e94-4554-a60c-40af3e8f1a20,Izaiah Gathings,PIT,https://assets.underdogfantasy.com/player-images/nfl/f064cdc0-fbf9-11ed-b3ef-4b1a763c6ea8.png,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -1669,6 +1671,7 @@ ebed0797-4404-4df7-bb66-1192d89e13d5,Mike Evans,TB,https://assets.underdogfantas
 d3bfa7f1-2be2-4bbb-8d13-c1a8010eeb9a,Tua Tagovailoa,MIA,https://assets.underdogfantasy.com/player-images/nfl/26ad9c27-de38-495e-913c-6fb2428e76d3.png,30f5b4f6-5306-5722-997c-a2255f44225b
 6138a0a8-55c9-4f5c-8c1e-38eed1b9a675,Stephen Sullivan,CAR,https://assets.underdogfantasy.com/player-images/nfl/a41b8454-0326-4c56-87a2-f2aac3814961.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 2855b529-dddf-429a-9e10-ea062d0706cf,Darrell Henderson Jr.,FA,https://assets.underdogfantasy.com/player-images/nfl/380c4d9b-d4c8-456c-ba50-25519edde899.png,e2571131-7600-5bc9-878b-946a992c8203
+732d9e9d-89ea-44b6-a3af-53335718fcb1,Lew Nichols,PHI,https://assets.underdogfantasy.com/player-images/nfl/72e4032d-8d7b-484f-95a2-a73fbb2c67f4.png,e2571131-7600-5bc9-878b-946a992c8203
 e407464e-16e5-4b49-9da2-92bb80784f84,Tevin Jones,FA,https://assets.underdogfantasy.com/player-images/nfl/44d9bb75-f947-406c-b847-6b11684a07c1.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 ec17c417-0f92-481f-9204-f900b6d66060,Trejan Bridges,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 aff41efa-823a-4bf3-b4bc-4d197adf9e50,Evan Engram,JAX,https://assets.underdogfantasy.com/player-images/nfl/e21365af-8d66-416e-b0a5-8816d18fcfd9.png,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -1753,7 +1756,6 @@ ecaeb48a-6600-4875-b14b-bb75a7b5006a,John Lovett,FA,https://assets.underdogfanta
 db835b29-995e-421d-83dc-70c7af2642a2,Dresser Winn,LAR,https://assets.underdogfantasy.com/player-images/nfl/adefcf10-e8e6-11ed-b5d6-23d85f497f81.png,30f5b4f6-5306-5722-997c-a2255f44225b
 00041ac7-c149-4ac4-9801-fa8a323a0d56,KeeSean Johnson,FA,https://assets.underdogfantasy.com/player-images/nfl/7e8f4076-25e1-41e5-8e71-f70397a3729d.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 c1827bab-b496-47dc-b218-a791a50ea464,James Blackman,FA,https://assets.underdogfantasy.com/player-images/nfl/9b5d6790-f016-11ed-aef3-53ecfb3af1ea.png,30f5b4f6-5306-5722-997c-a2255f44225b
-cbd44d70-a500-4e0f-8d9c-a1fa32183aa3,John Ross,PHI,https://assets.underdogfantasy.com/player-images/nfl/938b363a-6967-4cef-bcd2-bb358a9f6c98.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 2d7362a4-246e-44a1-bc8a-97670b059ea5,Reggie Gilliam,BUF,https://assets.underdogfantasy.com/player-images/nfl/4475bb8a-b5a6-4527-bfc7-8e7e03900984.png,be5a7215-24b9-50f9-973c-bd5f344dd964
 50abbedd-e958-4b30-951f-50a5403b2a4c,Kwamie Kassiter,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 506a28be-3709-494b-9614-7aeaa5d96b5f,Seth Williams,JAX,https://assets.underdogfantasy.com/player-images/nfl/f3debe3e-27e4-4c4a-867a-ec537b5a7826.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
@@ -1828,7 +1830,6 @@ f405f507-36b0-4df1-9bed-afedfe801e3f,Keelan Doss,LAC,https://assets.underdogfant
 9e7b9f41-6407-4fbb-aa71-30344efb750d,Andre Roberts,FA,https://assets.underdogfantasy.com/player-images/nfl/9691f874-be36-4529-a7eb-dde22ee4a848.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 679c6b4c-7792-4375-ad85-4f7490556d0e,Connor Heyward,PIT,https://assets.underdogfantasy.com/player-images/nfl/62e96d7c-e4dd-4a90-8c3a-8017eb69120d.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 1efead28-a46f-4525-bb80-71f0d05aa7a5,Nate Sudfeld,DET,https://assets.underdogfantasy.com/player-images/nfl/e1c506bd-9e36-45e7-b2b9-fff6a9728a06.png,30f5b4f6-5306-5722-997c-a2255f44225b
-34a5ecb4-ad9e-4caa-8091-4dc9c2e11e3f,Austin Watkins,PHI,https://assets.underdogfantasy.com/player-images/nfl/dda1c351-8148-4c26-9bc0-1d906065290f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 cac85860-ef0c-4e34-a7cb-65a8f4d4b799,Shane Zylstra,DET,https://assets.underdogfantasy.com/player-images/nfl/0cafaac9-20fb-4e5a-9362-158d8a4e7904.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 007f27db-0883-49fb-b11e-6d741346f648,Stephen Anderson,LAC,https://assets.underdogfantasy.com/player-images/nfl/5cb0bf9c-03b4-4201-97c5-a59c6db50841.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 1d1a135a-f659-42c1-8bcc-03eef6ca160c,Tayon Fleet-Davis,FA,https://assets.underdogfantasy.com/player-images/nfl/10107220-ce0e-11ec-8f7c-f5226825ea6a.png,e2571131-7600-5bc9-878b-946a992c8203
@@ -1843,7 +1844,7 @@ cc542526-a1a8-4945-9780-3b7228a62322,Alvin Kamara,NO,https://assets.underdogfant
 531f52ff-5f9d-41fd-a094-df76ef6db136,Alec Ingold,MIA,https://assets.underdogfantasy.com/player-images/nfl/7ade135c-0760-4548-b7d9-cf1174e2be33.png,be5a7215-24b9-50f9-973c-bd5f344dd964
 e861f743-837a-47dd-a2a9-de23d4e7e363,Dalton Schultz,HOU,https://assets.underdogfantasy.com/player-images/nfl/8caec1b4-e0b6-4a84-b8c8-617d6e91ef6a.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 354b136f-62e0-4b7f-a5c7-fbb3453366fa,Robert Davis,FA,https://assets.underdogfantasy.com/player-images/nfl/d0879c68-6387-4edc-b55b-07e128546ae7.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-ad3eff63-980d-4fb9-9260-311480d0d8d0,Joe Milton,NE,,30f5b4f6-5306-5722-997c-a2255f44225b
+60ecd2ea-8cb6-4de3-b1a2-bea8f2e7e5ce,Michael Woods,CLE,https://assets.underdogfantasy.com/player-images/nfl/70c462de-b1b5-4c07-8ba2-eb33f3075893.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 39797425-dade-4b0d-95a9-a9e806d28d7f,Lucky Jackson,MIN,https://assets.underdogfantasy.com/player-images/nfl/ac54c7b0-f984-11ed-84ee-53af5769e939.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 f7ac299c-e688-43f5-9b10-ef5d55f6b691,Zay Jones,ARI,https://assets.underdogfantasy.com/player-images/nfl/a28f7368-0306-4d20-855f-285a1a09c09c.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 d51a3669-cfad-4ea2-be99-dac80bc27f97,Kyle Rudolph,FA,https://assets.underdogfantasy.com/player-images/nfl/1059e9dc-97df-4643-9116-883a0573d8b1.png,540bb60e-ece4-5478-b5b1-4acd97db8102
@@ -1877,7 +1878,6 @@ fdbbdd2f-69a8-494d-8bd0-7aace7289662,Jaron Brown,FA,,ddd5757d-e6f2-5bdc-9d42-4fe
 99398db6-2ffb-42e9-bdb0-4312a399ab08,Josh Allen,BUF,https://assets.underdogfantasy.com/player-images/nfl/3069db07-aa43-4503-ab11-2ae5c0002721.png,30f5b4f6-5306-5722-997c-a2255f44225b
 f03c4ce7-ce1d-4ebe-aa83-333226706eca,Trey Benson,ARI,,e2571131-7600-5bc9-878b-946a992c8203
 349c3028-352a-4961-aeaf-6317ae7ec9d3,Johnny King,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-abbfc8f3-2503-4312-a001-3b79775bc2fa,James Proche,CLE,https://assets.underdogfantasy.com/player-images/nfl/c65488d4-251e-40fc-9f32-7019bbdaf75e.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 41842b45-a5a7-4cb9-8073-c3f9050349dd,Ian Bunting,FA,https://assets.underdogfantasy.com/player-images/nfl/38b32cb2-42a0-44ce-87ae-bf16c338b3af.png,540bb60e-ece4-5478-b5b1-4acd97db8102
 fe185af0-5ea1-400b-ba68-754813802b96,Jake Kumerow,FA,https://assets.underdogfantasy.com/player-images/nfl/aa759477-6206-4984-ab9c-eb213abfd020.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
 6e4e0254-03c3-4541-9481-356b99453e96,Greg Dulcich,DEN,https://assets.underdogfantasy.com/player-images/nfl/b9e4a022-d15c-4cef-9879-170277f17207.png,540bb60e-ece4-5478-b5b1-4acd97db8102
