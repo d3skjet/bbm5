@@ -1,7 +1,8 @@
 player_id,adp,pos_rank,timestamp,player_name,team,image_url,position_id
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1717156800.0015163,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1720180800.0025797,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,WR147,1720267200.0017347,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1724068800.000581,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,WR163,1724155200.0005643,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1724587200.0017934,Damiere Byrd,BUF,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1717156800.0015163,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1720180800.0025797,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,WR147,1720267200.0017347,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1724068800.000581,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,WR163,1724155200.0005643,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,,1724587200.0018122,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+d2345f79-fcfa-4ff3-a082-dea796a53878,216.0,WR163,1724673600.001391,Damiere Byrd,FA,https://assets.underdogfantasy.com/player-images/nfl/48d7bc31-808f-423c-afc8-45c2c5dfa45f.png,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
