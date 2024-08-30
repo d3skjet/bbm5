@@ -1,13 +1,14 @@
 player_id,adp,pos_rank,timestamp,player_name,team,image_url,position_id
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1723550400.0015,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR164,1723636800.0005963,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR157,1723723200.0015233,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR159,1723809600.0034266,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR176,1723896000.0012305,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR175,1723982400.0006323,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR168,1724068800.000581,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1724241600.0005443,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR165,1724328000.00129,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR166,1724414400.0005867,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR167,1724500800.0006511,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
-8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1724846400.0005524,Dayton Wade,FA,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1723550400.0015,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR164,1723636800.0005963,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR157,1723723200.0015233,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR159,1723809600.0034266,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR176,1723896000.0012305,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR175,1723982400.0006323,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR168,1724068800.000581,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1724241600.0005443,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR165,1724328000.00129,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR166,1724414400.0005867,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR167,1724500800.0006511,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,,1724846400.000553,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
+8ff4e7e8-f959-4d1a-a29a-8aded7108f78,216.0,WR149,1724932800.0007222,Dayton Wade,BAL,,ddd5757d-e6f2-5bdc-9d42-4fe825a2eaed
